@@ -36,56 +36,48 @@
 - [Sal](https://github.com/salopensource/sal) - Modular reporting for Endpoints _(salopensource)_
 - [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS _(krypted)_
 - [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
+		
+## System Updates			
+- [nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates _(macadmins)_
+- [MIST](https://github.com/ninxsoft/Mist) - A Mac command-line tool that automatically downloads macOS Installers / Firmwares _(ninxsoft)_
+- [S.U.P.E.R.M.A.N.](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience _(Macjutsu)_
 
+## Software Installation			
+- [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
+- [MunkiReport](https://github.com/munkireport/munkireport-php) - A reporting tool for munki _(munkireport)_
+- [AutoPKG](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS _(autopkg)_
+- [Installomator](https://github.com/Installomator/Installomator) - Installation script to deploy standard software on Macs _(installomator)_
+- [Homebrew](https://github.com/Homebrew) - The Missing Package Manager for macOS (or Linux) _(Homebrew)_
+- [Platypus](https://sveinbjorn.org/platypus) - Developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP program _(sveinbjorn)_
+- [Packages](http://s.sudre.free.fr/Software/Packages/about.html) - Whenever you need to create an installation package or distribution for Mac OS X 10.5 or later, Packages is the powerful and flexible solution you're looking for. _(WhiteBox)_
+- [Simple-Package-Creator](https://github.com/rtrouton/Simple-Package-Creator) - - _(rtrouton)_
+- [quickpkg](https://github.com/scriptingosx/quickpkg) - wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive _(scriptingosx)_
 			
-System Updates			
-nudge	macadmins	https://github.com/macadmins/nudge	A tool for encouraging the installation of macOS security updates
-MIST	ninxsoft	https://github.com/ninxsoft/Mist	A Mac command-line tool that automatically downloads macOS Installers / Firmwares
-S.U.P.E.R.M.A.N.	Macjutsu	https://github.com/Macjutsu/super	S.U.P.E.R.M.A.N. optimizes the macOS software update experience
+## Security			
+- [Objective-See's Tools](https://objective-see.org/tools.html) - Free, open-source, tools to secure your Mac _(Objective-See)_
+- [Signing Manager](https://twocanoes.com/products/mac/signing-manager/) - System for securing code and package signing certificates _(Twocanoes Software)_
+- [Santa](https://github.com/google/santa) - A binary authorization system for macOS _(Google)_
+- [osxcollector](https://github.com/Yelp/osxcollector) - A forensic evidence collection & analysis toolkit for OS X _(Yelp)_
+- [SilentKnight](https://eclecticlight.co/lockrattler-systhist/) - automatic checking of security systems _(Eclecticlight)_
+- [manageSecureTokens](https://github.com/TravellingTechGuy/manageSecureTokens/blob/master/manageSecureTokens.sh) -  _(TravellingTechGuy)_
+- [SuspiciousPackage](https://mothersruin.com/software/SuspiciousPackage/relnotes.html) -  _(Mothers Ruin Software)_
+- [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework. _(SuprHackerSteve)_
+- [escrow-buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs. _(macadmins)_
 			
-Software Installation			
-Munki	Walt Disney Animation Studios	https://github.com/munki/munki	Managed software installation for macOS
-MunkiReport	munkireport	https://github.com/munkireport/munkireport-php	A reporting tool for munki
-AutoPKG	autopkg	https://github.com/autopkg/autopkg	Automating packaging and software distribution on macOS
-Installomator	installomator	https://github.com/Installomator/Installomator	Installation script to deploy standard software on Macs
-Homebrew	Homebrew	https://github.com/Homebrew	The Missing Package Manager for macOS (or Linux)
-Platypus	sveinbjorn	https://sveinbjorn.org/platypus	Developer tool that creates native Mac applications from command line scripts such as shell scripts or Python, Perl, Ruby, Tcl, JavaScript and PHP program
-Packages	WhiteBox	http://s.sudre.free.fr/Software/Packages/about.html	Whenever you need to create an installation package or distribution for Mac OS X 10.5 or later, Packages is the powerful and flexible solution you're looking for.
-Simple-Package-Creator	rtrouton	https://github.com/rtrouton/Simple-Package-Creator	-
-quickpkg	scriptingosx	https://github.com/scriptingosx/quickpkg	wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive
+## Active Directory / Open Directory			
+- [Kerberos SSO User Guide](https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf) - - _(Apple)_
+- [NoMAD](https://gitlab.com/Mactroll/NoMAD) - macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound _(Joel Rennich)_
+- [macosLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows _(joshua-d-miller)_
+- [bugle](https://github.com/ABridoux/bugle) - A command-line tool to post and listen to distributed notifications to execute scripts. _(ABridoux)_
 			
-Security			
-Objective-See's Tools	Objective-See	https://objective-see.org/tools.html	Free, open-source, tools to secure your Mac
-Signing Manager	Twocanoes Software	https://twocanoes.com/products/mac/signing-manager/	System for securing code and package signing certificates
-Santa	Google	https://github.com/google/santa	A binary authorization system for macOS
-osxcollector	Yelp	https://github.com/Yelp/osxcollector	A forensic evidence collection & analysis toolkit for OS X
-SilentKnight	Eclecticlight	https://eclecticlight.co/lockrattler-systhist/	automatic checking of security systems
-manageSecureTokens	TravellingTechGuy	https://github.com/TravellingTechGuy/manageSecureTokens/blob/master/manageSecureTokens.sh	
-SuspiciousPackage	Mothers Ruin Software	https://mothersruin.com/software/SuspiciousPackage/relnotes.html	
-Crescendo	SuprHackerSteve	https://github.com/SuprHackerSteve/Crescendo	Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.
-escrow-buddy	macadmins	https://github.com/macadmins/escrow-buddy	A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs.
-			
-Active Directory / Open Directory			
-Kerberos SSO User Guide	Apple	https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf	-
-NoMAD	Joel Rennich	https://gitlab.com/Mactroll/NoMAD	macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound
-macosLAPS	joshua-d-miller	https://github.com/joshua-d-miller/macOSLAPS	Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows
-bugle	ABridoux	https://github.com/ABridoux/bugle	A command-line tool to post and listen to distributed notifications to execute scripts.
-			
-Scripts and Repos			
-jamf-recovery-lock	shbedev	https://github.com/shbedev/jamf-recovery-lock	Python script to set Recovery Lock key for Apple M1 computers
-reissueFVKey	-	https://tarot.shortcut.ru/community/jamf/-/tree/main/reissueFVKey	Скрипт перевыпуска и отправки ключа восстановления FileVault на небольшой Flask-сервер
-Search-Scripts-In-Jamf	laurentpertois	https://github.com/laurentpertois/Search-Scripts-In-Jamf	Search for a string in all the scripts and or extension attributes in your Jamf Pro instance
-brutalkeychain	krypted	https://github.com/krypted/brutalkeychain	Recover lost keychain passwords
-python-jamf	University of Utah - Marriott Library - Apple Infrastructure	https://github.com/univ-of-utah-marriott-library-apple/python-jamf	library for connecting to a Jamf Server that maps directly to the Jamf Pro Classic API
-Jamf Open Source Community	Jamf	https://github.com/jamf	-
-diskspace	scriptingosx	https://github.com/scriptingosx/diskspace	macOS command line tool to return the available disk space on APFS volumes
-FastScripts 3	red sweater	https://redsweater.com/fastscripts/	All your scripts at your fingertips
-CIS-Script	mvdbent	https://github.com/mvdbent/CIS-Script	This CIS Script is build to report and remediate based on the your organisation score.
-IOSSecuritySuite	securing	https://github.com/securing/IOSSecuritySuite	iOS platform security & anti-tampering Swift library
-			
-Knowledge			
-Deployment Reference for Mac	Apple	https://support.apple.com/en-gb/guide/deployment-reference-macos/welcome/web	
-Apple Device Support Tutorials	Apple	https://it-training.apple.com/tutorials/apt-support	
-Jamf 100 Course	Jamf	https://docs.jamf.com/education-services/jamf-100-course/4.1/Section_1__Overview.html	
-macos_security	usnistgov	https://github.com/usnistgov/macos_security/releases	macOS Security Compliance Project
-Awesome iOS Security 	Cy-clon3	https://github.com/Cy-clon3/awesome-ios-security	A collection of awesome tools, books, courses, blog posts, and cool stuff about iOS Application Security and Penetration Testing.
+## Scripts and Repos			
+- [jamf-recovery-lock](https://github.com/shbedev/jamf-recovery-lock) - Python script to set Recovery Lock key for Apple M1 computers _(shbedev)_
+- [reissueFVKey](https://tarot.shortcut.ru/community/jamf/-/tree/main/reissueFVKey) - Скрипт перевыпуска и отправки ключа восстановления FileVault на небольшой Flask-сервер _(-)_
+- [Search-Scripts-In-Jamf](https://github.com/laurentpertois/Search-Scripts-In-Jamf) - Search for a string in all the scripts and or extension attributes in your Jamf Pro instance _(laurentpertois)_
+- [brutalkeychain](https://github.com/krypted/brutalkeychain) - Recover lost keychain passwords _(krypted)_
+- [python-jamf](https://github.com/univ-of-utah-marriott-library-apple/python-jamf) - library for connecting to a Jamf Server that maps directly to the Jamf Pro Classic API _(University of Utah - Marriott Library - Apple Infrastructure)_
+- [Jamf Open Source Community](https://github.com/jamf) - - _(Jamf)_
+- [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes _(scriptingosx)_
+- [FastScripts 3](https://redsweater.com/fastscripts/) - All your scripts at your fingertips _(red sweater)_
+- [CIS-Script](https://github.com/mvdbent/CIS-Script) - This CIS Script is build to report and remediate based on the your organisation score. _(mvdbent)_
+- [IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) - iOS platform security & anti-tampering Swift library _(securing)_
