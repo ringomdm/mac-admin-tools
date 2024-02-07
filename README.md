@@ -23,19 +23,19 @@
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift. _(Lord-Kamina)_
 - [outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand. _(macadmins)_
 
-			
-Configuration and Monitoring			
-ProfileCreator	ProfileCreator	https://github.com/ProfileCreator/ProfileCreator	macOS app to create standard or customized configuration profiles
-LowProfile	ninxsoft	https://github.com/ninxsoft/LowProfile	A Mac utility to help inspect Apple Configuration Profile payloads.
-PPPC-Utility	jamf	https://github.com/jamf/PPPC-Utility	Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS
-SwiftDefaultApps	Lord-Kamina	https://github.com/Lord-Kamina/SwiftDefaultApps	Replacement for RCDefaultApps, written in Swift
-tccutil	jacobsalmela	https://github.com/jacobsalmela/tccutil	Command line tool to modify OS X's accessibility database (TCC.db)
-Apple Configurator	Apple	https://apps.apple.com/ru/app/apple-configurator/id1037126344?mt=12	-
-Ansible	Red Hat	https://www.ansible.com	Open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code
-Zabbix	Zabbix	https://www.zabbix.com	Open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services
-Inventory	munkireport	https://github.com/munkireport/inventory	Inventory module for MunkiReport
-Sal	salopensource	https://github.com/salopensource/sal	Modular reporting for Endpoints
-extensionsmanager	krypted	https://github.com/krypted/extensionsmanager	This project is to provide single pane of glass telemetry into extensions on macOS.
+## Configuration and Monitoring			
+- [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles _(ProfileCreator)_
+- [LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads. _(ninxsoft)_
+- [PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS _(jamf)_
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift _(Lord-Kamina)_
+- [tccutil](https://github.com/jacobsalmela/tccutil) - Command line tool to modify OS X's accessibility database (TCC.db) _(jacobsalmela)_
+- [Apple Configurator](https://apps.apple.com/ru/app/apple-configurator/id1037126344?mt=12) - - _(Apple)_
+- [Ansible](https://www.ansible.com) - Open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code _(Red Hat)_
+- [Zabbix](https://www.zabbix.com) - Open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services _(Zabbix)_
+- [Inventory](https://github.com/munkireport/inventory) - Inventory module for MunkiReport _(munkireport)_
+- [Sal](https://github.com/salopensource/sal) - Modular reporting for Endpoints _(salopensource)_
+- [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS. _(krypted)_
+
 			
 System Updates			
 nudge	macadmins	https://github.com/macadmins/nudge	A tool for encouraging the installation of macOS security updates
