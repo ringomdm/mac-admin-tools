@@ -2,9 +2,9 @@
 
 ## Deployment
 - [MDS](https://twocanoes.com/products/mac/mac-deploy-stick) - Deploy a Mac in 7 Seconds (Twocanoes Software)
-- [macvdmtool](https://github.com/AsahiLinux/macvdmtool) - AsahiLinux - This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable
-- [bootstrappr](https://github.com/munki/bootstrappr) - munki - A bare-bones tool to install a set of packages on a target volume.
-- [installr](https://github.com/munki/installr)	munki -	A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages.
+- [macvdmtool](https://github.com/AsahiLinux/macvdmtool) - This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable (AsahiLinux)
+- [bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume (munki)
+- [installr](https://github.com/munki/installr)	 - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages (munki)
 		
 ## MDM			
 | MicroMDM |	micromdm	https://micromdm.io	Mobile Device Management server
