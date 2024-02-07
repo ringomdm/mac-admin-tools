@@ -6,10 +6,10 @@
 - [bootstrappr](https://github.com/munki/bootstrappr) - munki - A bare-bones tool to install a set of packages on a target volume.
 - [installr](https://github.com/munki/installr)	munki -	A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages.
 			
-MDM			
-MicroMDM	micromdm	https://micromdm.io	Mobile Device Management server
-munkimdm	munkimdm	https://github.com/munkimdm/munkimdm	Flask app for connecting Munki and MicroMDM
-NanoMDM	micromdm	https://github.com/micromdm/nanomdm	Minimalist Apple MDM server heavily inspired by MicroMDM
+## MDM			
+| MicroMDM |	micromdm	https://micromdm.io	Mobile Device Management server
+| munkimdm |	munkimdm	https://github.com/munkimdm/munkimdm	Flask app for connecting Munki and MicroMDM
+| NanoMDM |	micromdm	https://github.com/micromdm/nanomdm	Minimalist Apple MDM server heavily inspired by MicroMDM
 			
 User Experience			
 DEPNotify (Jamf)	Joel Rennich	https://gitlab.com/Mactroll/DEPNotify	Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment
