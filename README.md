@@ -11,17 +11,18 @@
 - [munkimdm](https://github.com/munkimdm/munkimdm) - Flask app for connecting Munki and MicroMDM _(munkimdm)_
 - [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
 
-User Experience			
-DEPNotify (Jamf)	Joel Rennich	https://gitlab.com/Mactroll/DEPNotify	Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment
-IBM Notifier	IBM	https://github.com/IBM/mac-ibm-notifications	macOS agent used to display custom notifications and alerts to the end user
-Setup-Your-Mac (Jamf)	dan-snelson	https://github.com/dan-snelson/Setup-Your-Mac	Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
-Baseline	SecondSonConsulting	https://github.com/SecondSonConsulting/Baseline	An MDM agnostic zero touch solution for macOS
-dockutil	kcrawford	https://github.com/kcrawford/dockutil	command line tool for managing dock items
-Xcreds	Twocanoes Software	https://twocanoes.com/products/mac/xcreds/	IdP Password Syncing
-Privileges	rtrouton	https://github.com/SAP/macOS-enterprise-privileges/releases/tag/1.5.3	Set a fixed timeout, in minutes, for the Dock tile's Toggle Privileges command. After this time, the admin rights are removed and set back to standard user rights. A value of 0 disables the timeout and allows the user to permanently toggle privileges.
-swiftDialog	bartreardon	https://github.com/bartreardon/swiftDialog/releases	The info box is the area underneath where --icon is displayed using a secondary shade and is useful for displaying any incidental information like system information
-SwiftDefaultApps	Lord-Kamina	https://github.com/Lord-Kamina/SwiftDefaultApps	Replacement for RCDefaultApps, written in Swift.
-outset	macadmins	https://github.com/macadmins/outset	Automatically process packages and scripts during boot, login, or on demand.
+##User Experience			
+- [DEPNotify (Jamf)](https://gitlab.com/Mactroll/DEPNotify) - Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment _(Joel Rennich)_
+- [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end user _(IBM)_
+- [Setup-Your-Mac (Jamf)](https://github.com/dan-snelson/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment. _(dan-snelson)_
+- [Baseline](https://github.com/SecondSonConsulting/Baseline) - An MDM agnostic zero touch solution for macOS _(SecondSonConsulting)_
+- [dockutil](https://github.com/kcrawford/dockutil) - command line tool for managing dock items _(kcrawford)_
+- [Xcreds](https://twocanoes.com/products/mac/xcreds/) - IdP Password Syncing _(Twocanoes Software)_
+- [Privileges](https://github.com/SAP/macOS-enterprise-privileges/releases/tag/1.5.3) - Set a fixed timeout, in minutes, for the Dock tile's Toggle Privileges command. After this time, the admin rights are removed and set back to standard user rights. A value of 0 disables the timeout and allows the user to permanently toggle privileges. _(rtrouton)_
+- [swiftDialog](https://github.com/bartreardon/swiftDialog/releases) - The info box is the area underneath where --icon is displayed using a secondary shade and is useful for displaying any incidental information like system information _(bartreardon)_
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift. _(Lord-Kamina)_
+- [outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand. _(macadmins)_
+
 			
 Configuration and Monitoring			
 ProfileCreator	ProfileCreator	https://github.com/ProfileCreator/ProfileCreator	macOS app to create standard or customized configuration profiles
