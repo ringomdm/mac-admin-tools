@@ -6,6 +6,8 @@
 - [bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume _(munki)_
 - [installr](https://github.com/munki/installr)	 - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages _(munki)_
 
+[MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) - Deploy a Mac in 7 Seconds _(Twocanoes Software)_![image](https://github.com/ringomdm/admin-tools/assets/29130663/5e3b5145-5113-4d09-b44f-afa4f1b2d67e)
+
 
   [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) - Deploy a Mac in 7 Seconds_(Twocanoes Software)_
 
