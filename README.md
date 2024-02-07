@@ -7,9 +7,9 @@
 - [installr](https://github.com/munki/installr) - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages _(munki)_
 
 ## MDM
-[MicroMDM](https://micromdm.io) - Mobile Device Management server _(micromdm)_
-[munkimdm](https://github.com/munkimdm/munkimdm) - Flask app for connecting Munki and MicroMDM _(munkimdm)_
-[NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
+- [MicroMDM](https://micromdm.io) - Mobile Device Management server _(micromdm)_
+- [munkimdm](https://github.com/munkimdm/munkimdm) - Flask app for connecting Munki and MicroMDM _(munkimdm)_
+- [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
 
 User Experience			
 DEPNotify (Jamf)	Joel Rennich	https://gitlab.com/Mactroll/DEPNotify	Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment
