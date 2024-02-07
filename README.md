@@ -62,13 +62,13 @@
 - [manageSecureTokens](https://github.com/TravellingTechGuy/manageSecureTokens/blob/master/manageSecureTokens.sh) -  _(TravellingTechGuy)_
 - [SuspiciousPackage](https://mothersruin.com/software/SuspiciousPackage/relnotes.html) -  _(Mothers Ruin Software)_
 - [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework. _(SuprHackerSteve)_
-- [escrow-buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs. _(macadmins)_
+- [escrow-buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs _(macadmins)_
 			
 ## Active Directory / Open Directory			
 - [Kerberos SSO User Guide](https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf) - - _(Apple)_
 - [NoMAD](https://gitlab.com/Mactroll/NoMAD) - macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound _(Joel Rennich)_
 - [macosLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows _(joshua-d-miller)_
-- [bugle](https://github.com/ABridoux/bugle) - A command-line tool to post and listen to distributed notifications to execute scripts. _(ABridoux)_
+- [bugle](https://github.com/ABridoux/bugle) - A command-line tool to post and listen to distributed notifications to execute scripts _(ABridoux)_
 			
 ## Scripts and Repos			
 - [jamf-recovery-lock](https://github.com/shbedev/jamf-recovery-lock) - Python script to set Recovery Lock key for Apple M1 computers _(shbedev)_
@@ -79,5 +79,5 @@
 - [Jamf Open Source Community](https://github.com/jamf) - - _(Jamf)_
 - [diskspace](https://github.com/scriptingosx/diskspace) - macOS command line tool to return the available disk space on APFS volumes _(scriptingosx)_
 - [FastScripts 3](https://redsweater.com/fastscripts/) - All your scripts at your fingertips _(red sweater)_
-- [CIS-Script](https://github.com/mvdbent/CIS-Script) - This CIS Script is build to report and remediate based on the your organisation score. _(mvdbent)_
+- [CIS-Script](https://github.com/mvdbent/CIS-Script) - This CIS Script is build to report and remediate based on the your organisation score _(mvdbent)_
 - [IOSSecuritySuite](https://github.com/securing/IOSSecuritySuite) - iOS platform security & anti-tampering Swift library _(securing)_
