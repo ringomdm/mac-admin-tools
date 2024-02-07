@@ -29,7 +29,7 @@
 - [PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS _(jamf)_
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift _(Lord-Kamina)_
 - [tccutil](https://github.com/jacobsalmela/tccutil) - Command line tool to modify OS X's accessibility database (TCC.db) _(jacobsalmela)_
-- [Apple Configurator](https://apps.apple.com/ru/app/apple-configurator/id1037126344?mt=12) - - _(Apple)_
+- [Apple Configurator](https://apps.apple.com/ru/app/apple-configurator/id1037126344?mt=12) - _(Apple)_
 - [Ansible](https://www.ansible.com) - Open-source software provisioning, configuration management, and application-deployment tool enabling infrastructure as code _(Red Hat)_
 - [Zabbix](https://www.zabbix.com) - Open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services _(Zabbix)_
 - [Inventory](https://github.com/munkireport/inventory) - Inventory module for MunkiReport _(munkireport)_
