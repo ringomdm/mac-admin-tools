@@ -1,4 +1,4 @@
-# free-admin-tools
+# Полезные и бесплатные утилиты в помощь системному администратору macOS
 
 ## Deployment
 - [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) - Deploy a Mac in 7 Seconds _(Twocanoes Software)_
