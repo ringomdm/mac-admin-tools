@@ -1,7 +1,7 @@
 # admin-tools
 
-Deployment			
-MDS	Twocanoes Software	https://twocanoes.com/products/mac/mac-deploy-stick/	Deploy a Mac in 7 Seconds
+##Deployment		
+MDS	Twocanoes Software		Deploy a Mac in 7 Seconds https://twocanoes.com/products/mac/mac-deploy-stick
 macvdmtool	AsahiLinux	https://github.com/AsahiLinux/macvdmtool	This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable
 bootstrappr	munki	https://github.com/munki/bootstrappr	A bare-bones tool to install a set of packages on a target volume.
 installr	munki	https://github.com/munki/installr	A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages.
