@@ -5,7 +5,10 @@
 - [macvdmtool](https://github.com/AsahiLinux/macvdmtool) - This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable _(AsahiLinux)_
 - [bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume _(munki)_
 - [installr](https://github.com/munki/installr)	 - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages _(munki)_
-		
+
+
+  [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) - Deploy a Mac in 7 Seconds_(Twocanoes Software)_
+
 ## MDM			
 | MicroMDM |	micromdm	https://micromdm.io	Mobile Device Management server
 | munkimdm |	munkimdm	https://github.com/munkimdm/munkimdm	Flask app for connecting Munki and MicroMDM
