@@ -25,7 +25,7 @@
 
 ## Configuration and Monitoring			
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles _(ProfileCreator)_
-- [LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads. _(ninxsoft)_
+- [LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads _(ninxsoft)_
 - [PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS _(jamf)_
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift _(Lord-Kamina)_
 - [tccutil](https://github.com/jacobsalmela/tccutil) - Command line tool to modify OS X's accessibility database (TCC.db) _(jacobsalmela)_
@@ -34,7 +34,8 @@
 - [Zabbix](https://www.zabbix.com) - Open-source software tool to monitor IT infrastructure such as networks, servers, virtual machines, and cloud services _(Zabbix)_
 - [Inventory](https://github.com/munkireport/inventory) - Inventory module for MunkiReport _(munkireport)_
 - [Sal](https://github.com/salopensource/sal) - Modular reporting for Endpoints _(salopensource)_
-- [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS. _(krypted)_
+- [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS _(krypted)_
+- [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
 
 			
 System Updates			
