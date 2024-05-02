@@ -41,6 +41,7 @@
 - [nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates _(macadmins)_
 - [MIST](https://github.com/ninxsoft/Mist) - A Mac command-line tool that automatically downloads macOS Installers / Firmwares _(ninxsoft)_
 - [S.U.P.E.R.M.A.N.](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience _(Macjutsu)_
+- [SOFA](https://github.com/macadmins/sofa/tree/main) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 
 ## Software Installation			
 - [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
