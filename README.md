@@ -42,7 +42,7 @@
 - [MIST](https://github.com/ninxsoft/Mist) - A Mac command-line tool that automatically downloads macOS Installers / Firmwares _(ninxsoft)_
 - [S.U.P.E.R.M.A.N.](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience _(Macjutsu)_
 - [SOFA](https://github.com/macadmins/sofa/tree/main) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
-- [mist-cli](https://github.com/ninxsoft/mist-cli) - 
+- [mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers
 
 ## Software Installation			
 - [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
