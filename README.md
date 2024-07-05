@@ -1,4 +1,4 @@
- # ⭐️ Awesome free and useful macadmin tools
+ # ⭐️ Awesome free and useful macadmin tools 👨🏻‍💻
 
 ## Contents
 - [Deployment](#dpl)
