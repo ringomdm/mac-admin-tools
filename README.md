@@ -1,17 +1,28 @@
  # ⭐️ Awesome free and useful macadmin tools
 
-## Deployment
+## Contents
+- [Deployment](#dpl)
+- [MDM](#mdm)
+- [User Experience](#ue)
+- [Configuration and Monitoring](#cam)
+- [System Updates](#su)
+- [Software Installation](#si)
+- [Security](#sec)
+- [Active Directory / Open Directory](#adod)
+- [Scripts and Repos](#sar)
+
+## <h2 id="dpl">Deployment</h2>
 - [MDS](https://twocanoes.com/products/mac/mac-deploy-stick/) - Deploy a Mac in 7 Seconds _(Twocanoes Software)_
 - [macvdmtool](https://github.com/AsahiLinux/macvdmtool) - This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable _(AsahiLinux)_
 - [bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume _(munki)_
 - [installr](https://github.com/munki/installr) - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages _(munki)_
 
-## MDM
+## <h2 id="mdm">MDM</h2>
 - [MicroMDM](https://micromdm.io) - Mobile Device Management server _(micromdm)_
 - [munkimdm](https://github.com/munkimdm/munkimdm) - Flask app for connecting Munki and MicroMDM _(munkimdm)_
 - [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
 
-## User Experience			
+## <h2 id="ue">User Experience</h2>			
 - [DEPNotify (Jamf)](https://gitlab.com/Mactroll/DEPNotify) - Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment _(Joel Rennich)_
 - [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end user _(IBM)_
 - [Setup-Your-Mac (Jamf)](https://github.com/dan-snelson/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment. _(dan-snelson)_
@@ -23,7 +34,7 @@
 - [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift. _(Lord-Kamina)_
 - [outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand. _(macadmins)_
 
-## Configuration and Monitoring			
+## <h2 id="cam">Configuration and Monitoring</h2>			
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles _(ProfileCreator)_
 - [LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads _(ninxsoft)_
 - [PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS _(jamf)_
@@ -37,14 +48,14 @@
 - [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS _(krypted)_
 - [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
 		
-## System Updates			
+## <h2 id="su">System Updates</h2>			
 - [nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates _(macadmins)_
 - [MIST](https://github.com/ninxsoft/Mist) - A Mac command-line tool that automatically downloads macOS Installers / Firmwares _(ninxsoft)_
 - [S.U.P.E.R.M.A.N.](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience _(Macjutsu)_
 - [SOFA](https://github.com/macadmins/sofa/tree/main) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 - [mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers
 
-## Software Installation			
+## <h2 id="si">System Installation</h2>			
 - [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
 - [MunkiReport](https://github.com/munkireport/munkireport-php) - A reporting tool for munki _(munkireport)_
 - [AutoPKG](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS _(autopkg)_
@@ -55,7 +66,7 @@
 - [Simple-Package-Creator](https://github.com/rtrouton/Simple-Package-Creator) - - _(rtrouton)_
 - [quickpkg](https://github.com/scriptingosx/quickpkg) - wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive _(scriptingosx)_
 			
-## Security			
+## <h2 id="sec">Security</h2>			
 - [Objective-See's Tools](https://objective-see.org/tools.html) - Free, open-source, tools to secure your Mac _(Objective-See)_
 - [Signing Manager](https://twocanoes.com/products/mac/signing-manager/) - System for securing code and package signing certificates _(Twocanoes Software)_
 - [Santa](https://github.com/google/santa) - A binary authorization system for macOS _(Google)_
@@ -66,13 +77,13 @@
 - [Crescendo](https://github.com/SuprHackerSteve/Crescendo) - Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework. _(SuprHackerSteve)_
 - [escrow-buddy](https://github.com/macadmins/escrow-buddy) - A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs _(macadmins)_
 			
-## Active Directory / Open Directory			
+## <h2 id="adod">Active Directory / Open Directory</h2>			
 - [Kerberos SSO User Guide](https://www.apple.com/business/docs/site/Kerberos_Single_Sign_on_Extension_User_Guide.pdf) - - _(Apple)_
 - [NoMAD](https://gitlab.com/Mactroll/NoMAD) - macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound _(Joel Rennich)_
 - [macosLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows _(joshua-d-miller)_
 - [bugle](https://github.com/ABridoux/bugle) - A command-line tool to post and listen to distributed notifications to execute scripts _(ABridoux)_
 			
-## Scripts and Repos			
+## <h2 id="sar">Scripts and Repos</h2>				
 - [jamf-recovery-lock](https://github.com/shbedev/jamf-recovery-lock) - Python script to set Recovery Lock key for Apple M1 computers _(shbedev)_
 - [reissueFVKey](https://tarot.shortcut.ru/community/jamf/-/tree/main/reissueFVKey) - Скрипт перевыпуска и отправки ключа восстановления FileVault на небольшой Flask-сервер _(-)_
 - [Search-Scripts-In-Jamf](https://github.com/laurentpertois/Search-Scripts-In-Jamf) - Search for a string in all the scripts and or extension attributes in your Jamf Pro instance _(laurentpertois)_
