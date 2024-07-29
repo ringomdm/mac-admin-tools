@@ -82,6 +82,7 @@
 - [NoMAD](https://gitlab.com/Mactroll/NoMAD) - macOS menu bar application that provides all the functionality of being bound to AD, and more, without having to be bound _(Joel Rennich)_
 - [macosLAPS](https://github.com/joshua-d-miller/macOSLAPS) - Swift binary that will change a local administrator password to a random generated password. Similar behavior to LAPS for Windows _(joshua-d-miller)_
 - [bugle](https://github.com/ABridoux/bugle) - A command-line tool to post and listen to distributed notifications to execute scripts _(ABridoux)_
+- [LDAP Admin Tool](https://www.ldapsoft.com/download.html) - is simple and easy to use GUI administration tool for Ldap management, control and development
 			
 ## <h2 id="sar">Scripts and Repos</h2>				
 - [jamf-recovery-lock](https://github.com/shbedev/jamf-recovery-lock) - Python script to set Recovery Lock key for Apple M1 computers _(shbedev)_
