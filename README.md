@@ -55,7 +55,7 @@
 - [SOFA](https://github.com/macadmins/sofa/tree/main) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 - [mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers
 
-## <h2 id="si">System Installation</h2>			
+## <h2 id="si">Software Installation</h2>			
 - [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
 - [MunkiReport](https://github.com/munkireport/munkireport-php) - A reporting tool for munki _(munkireport)_
 - [AutoPKG](https://github.com/autopkg/autopkg) - Automating packaging and software distribution on macOS _(autopkg)_
@@ -65,6 +65,7 @@
 - [Packages](http://s.sudre.free.fr/Software/Packages/about.html) - Whenever you need to create an installation package or distribution for Mac OS X 10.5 or later, Packages is the powerful and flexible solution you're looking for. _(WhiteBox)_
 - [Simple-Package-Creator](https://github.com/rtrouton/Simple-Package-Creator) - - _(rtrouton)_
 - [quickpkg](https://github.com/scriptingosx/quickpkg) - wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive _(scriptingosx)_
+- [Apparency](https://mothersruin.com/software/Apparency/) - Inspect App info
 			
 ## <h2 id="sec">Security</h2>			
 - [Objective-See's Tools](https://objective-see.org/tools.html) - Free, open-source, tools to secure your Mac _(Objective-See)_
