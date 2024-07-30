@@ -65,7 +65,7 @@
 - [Packages](http://s.sudre.free.fr/Software/Packages/about.html) - Whenever you need to create an installation package or distribution for Mac OS X 10.5 or later, Packages is the powerful and flexible solution you're looking for. _(WhiteBox)_
 - [Simple-Package-Creator](https://github.com/rtrouton/Simple-Package-Creator) - Automator application that will allow the selection of a self-contained application and creates an installer package that enables the installation of the application with pre-set permissions into /Applications - _(rtrouton)_
 - [quickpkg](https://github.com/scriptingosx/quickpkg) - wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive _(scriptingosx)_
-- [Apparency](https://mothersruin.com/software/Apparency/) - Inspect App info
+- [Apparency](https://mothersruin.com/software/Apparency/) - Inspect App info - _(Mothers Ruin Software)_
 			
 ## <h2 id="sec">Security</h2>			
 - [Objective-See's Tools](https://objective-see.org/tools.html) - Free, open-source, tools to secure your Mac _(Objective-See)_
