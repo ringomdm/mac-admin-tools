@@ -31,8 +31,9 @@
 - [Xcreds](https://twocanoes.com/products/mac/xcreds/) - IdP Password Syncing _(Twocanoes Software)_
 - [Privileges](https://github.com/SAP/macOS-enterprise-privileges/releases/tag/1.5.3) - Set a fixed timeout, in minutes, for the Dock tile's Toggle Privileges command. After this time, the admin rights are removed and set back to standard user rights. A value of 0 disables the timeout and allows the user to permanently toggle privileges. _(rtrouton)_
 - [swiftDialog](https://github.com/bartreardon/swiftDialog/releases) - The info box is the area underneath where --icon is displayed using a secondary shade and is useful for displaying any incidental information like system information _(bartreardon)_
-- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift. _(Lord-Kamina)_
-- [outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand. _(macadmins)_
+- [SwiftDefaultApps](https://github.com/Lord-Kamina/SwiftDefaultApps) - Replacement for RCDefaultApps, written in Swift _(Lord-Kamina)_
+- [outset](https://github.com/macadmins/outset) - Automatically process packages and scripts during boot, login, or on demand _(macadmins)_
+- [PrivilegesDemoter](https://github.com/sgmills/PrivilegesDemoter) - Allow users to self manage admin privileges, while reminding them to operate as standard whenever possible _(sgmills)_
 
 ## <h2 id="cam">Configuration and Monitoring</h2>			
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles _(ProfileCreator)_
