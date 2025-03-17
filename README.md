@@ -48,7 +48,8 @@
 - [Sal](https://github.com/salopensource/sal) - Modular reporting for Endpoints _(salopensource)_
 - [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS _(krypted)_
 - [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
-- [UI BROWSER](https://latenightsw.com/freeware/ui-browser/) - ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies. It helps you to explore, monitor, and control the user interface of most applications running on macOS _(Late Night Software)_ 
+- [UI BROWSER](https://latenightsw.com/freeware/ui-browser/) - ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies. It helps you to explore, monitor, and control the user interface of most applications running on macOS _(Late Night Software)_
+- [LogUI](https://eclecticlight.co/wp-content/uploads/2025/03/logui127.zip) - lightweight log browser _(Eclectic Light)_
 		
 ## <h2 id="su">System Updates</h2>			
 - [nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates _(macadmins)_
