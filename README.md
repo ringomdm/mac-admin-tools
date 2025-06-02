@@ -36,6 +36,7 @@
 - [PrivilegesDemoter](https://github.com/sgmills/PrivilegesDemoter) - Allow users to self manage admin privileges, while reminding them to operate as standard whenever possible _(sgmills)_
 
 ## <h2 id="cam">Configuration and Monitoring</h2>			
+- [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles _(ProfileCreator)_
 - [LowProfile](https://github.com/ninxsoft/LowProfile) - A Mac utility to help inspect Apple Configuration Profile payloads _(ninxsoft)_
 - [PPPC-Utility](https://github.com/jamf/PPPC-Utility) - Application for creating configuration profiles containing the Privacy Preferences Policy Control payload for macOS _(jamf)_
@@ -47,7 +48,6 @@
 - [Inventory](https://github.com/munkireport/inventory) - Inventory module for MunkiReport _(munkireport)_
 - [Sal](https://github.com/salopensource/sal) - Modular reporting for Endpoints _(salopensource)_
 - [extensionsmanager](https://github.com/krypted/extensionsmanager) - This project is to provide single pane of glass telemetry into extensions on macOS _(krypted)_
-- [iMazing Profile Editor](https://imazing.com/profile-editor) - Create, Edit, and Sign Apple Configuration Profiles _(iMazing)_
 - [UI BROWSER](https://latenightsw.com/freeware/ui-browser/) - ultimate assistant for Apple’s Accessibility and AppleScript GUI Scripting technologies. It helps you to explore, monitor, and control the user interface of most applications running on macOS _(Late Night Software)_
 - [LogUI](https://eclecticlight.co/wp-content/uploads/2025/03/logui127.zip) - lightweight log browser _(Eclectic Light)_
 		
