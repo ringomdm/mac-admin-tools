@@ -16,6 +16,7 @@
 - [macvdmtool](https://github.com/AsahiLinux/macvdmtool) - This tool lets you get a serial console on an Apple Silicon device and reboot it remotely, using only another Apple Silicon device running macOS and a standard Type C cable _(AsahiLinux)_
 - [bootstrappr](https://github.com/munki/bootstrappr) - A bare-bones tool to install a set of packages on a target volume _(munki)_
 - [installr](https://github.com/munki/installr) - A tool designed for use in Recovery boot to do a "fresh" install of macOS and additional packages _(munki)_
+- [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 
 ## <h2 id="mdm">MDM</h2>
 - [MicroMDM](https://micromdm.io) - Mobile Device Management server _(micromdm)_
