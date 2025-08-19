@@ -19,6 +19,7 @@
 - [idevicerestore](https://github.com/libimobiledevice/idevicerestore) - Restore/upgrade firmware of iOS devices
 
 ## <h2 id="mdm">MDM</h2>
+- [device-management](https://github.com/apple/device-management) - Device management schema data for MDM _(apple)_
 - [MicroMDM](https://micromdm.io) - Mobile Device Management server _(micromdm)_
 - [munkimdm](https://github.com/munkimdm/munkimdm) - Flask app for connecting Munki and MicroMDM _(munkimdm)_
 - [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
