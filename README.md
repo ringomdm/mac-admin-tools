@@ -71,6 +71,7 @@
 - [Simple-Package-Creator](https://github.com/rtrouton/Simple-Package-Creator) - Automator application that will allow the selection of a self-contained application and creates an installer package that enables the installation of the application with pre-set permissions into /Applications - _(rtrouton)_
 - [quickpkg](https://github.com/scriptingosx/quickpkg) - wrapper for pkgbuild to quickly build simple packages from an installed app, a dmg or zip archive _(scriptingosx)_
 - [Apparency](https://mothersruin.com/software/Apparency/) - Inspect App info - _(Mothers Ruin Software)_
+- [Microsoft-365-Reset](https://github.com/dan-snelson/Microsoft-365-Reset) - Unified zsh script to repair, reset, or remove Microsoft 365 components on macOS - _(dan-snelson)_
 			
 ## <h2 id="sec">Security</h2>			
 - [Objective-See's Tools](https://objective-see.org/tools.html) - Free, open-source, tools to secure your Mac _(Objective-See)_
