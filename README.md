@@ -60,6 +60,7 @@
 - [SOFA](https://github.com/macadmins/sofa/tree/main) - SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates
 - [mist-cli](https://github.com/ninxsoft/mist-cli) - A Mac command-line tool that automatically downloads macOS Firmwares / Installers
 - [DDM-OS-Reminder](https://github.com/dan-snelson/DDM-OS-Reminder) - Mac Admins’ new favorite, MDM-agnostic, “set-it-and-forget-it” end-user messaging for Apple’s Declarative Device Management-enforced macOS update deadlines -_(dan-snelson)_
+- [SUMB · Software Update Menu Bar](https://github.com/jeremy4971/sumb_public) - Notifier for enforced macOS updates via DDM - _(jeremy4971)_
 
 ## <h2 id="si">Software Installation</h2>			
 - [Munki](https://github.com/munki/munki) - Managed software installation for macOS _(Walt Disney Animation Studios)_
