@@ -25,6 +25,7 @@
 - [NanoMDM](https://github.com/micromdm/nanomdm) - Minimalist Apple MDM server heavily inspired by MicroMDM _(micromdm)_
 
 ## <h2 id="ue">User Experience</h2>			
+- [Notifier](https://github.com/Jamf-Concepts/Notifier) - Notifier is a Swift app which can post alert or banner notifications on macOS 12.0+ clients _(Jamf Concepts / macmule)_
 - [DEPNotify (Jamf)](https://gitlab.com/Mactroll/DEPNotify) - Small light weight notification app that was designed to let your users know what's going on during a DEP enrollment _(Joel Rennich)_
 - [IBM Notifier](https://github.com/IBM/mac-ibm-notifications) - macOS agent used to display custom notifications and alerts to the end user _(IBM)_
 - [Setup-Your-Mac (Jamf)](https://github.com/dan-snelson/Setup-Your-Mac) - Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment. _(dan-snelson)_
